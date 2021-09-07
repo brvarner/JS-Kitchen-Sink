@@ -34,12 +34,16 @@ var vegetables = ["broccoli", "asparagus", "spinach", "collard greens", "bell pe
 
 vegetables.forEach (value => console.log (value))
 
+// Displaying each vegetable in the array
+
 var pet = {
         name: "Katsu",
         breed: "cat"
 }
 
 console.log(pet.name, pet.breed)
+
+// Showing pet name and breed on console
 
 var tortoises = [
     {
