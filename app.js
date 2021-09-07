@@ -9,7 +9,7 @@ var sumFiveAndFour = 5 + 4
 // variables and const defined
 
 function sayHello() {
-     console.log('Hello World!')
+     alert('Hello World!')
 }
 
 sayHello()
